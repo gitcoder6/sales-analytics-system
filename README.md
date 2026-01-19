@@ -103,6 +103,7 @@ The program will:
 - **output/sales_report.txt:** Comprehensive sales analytics report.
 ---
 ## Example Console Output
+```
 [1/10] Reading sales data... ✓ Successfully read "X" transactions
 [2/10] Parsing and cleaning data... ✓ Parsed "X" records
 [3/10] Filter Options Available: Regions: "North", South, East, West
@@ -115,3 +116,4 @@ Do you want to filter data? (y/n): n
 [8/10] Saving enriched data... ✓ Saved to: data/enriched_sales_data.txt
 [9/10] Generating report... ✓ Report saved to: output/sales_report.txt
 [10/10] Process Complete!
+```
